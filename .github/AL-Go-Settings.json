@@ -5,5 +5,6 @@
   "templateUrl": "https://github.com/mazhelez-org/tmp3N4tJJ-PTE@main",
   "useProjectDependencies": true,
   "type": "PTE",
-  "MicrosoftTelemetryConnectionString": ""
+  "MicrosoftTelemetryConnectionString": "",
+  "templateSha": "64c6f88313a3c4ae31d19baaa9ea072429222651"
 }
